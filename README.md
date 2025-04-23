@@ -1,1 +1,2 @@
-# SDA-bootcamp-project1
+# SDA-bootcamp-project
+A chatbot using streamlit and openai api.

@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+chat_logs
+
+pdf_store
+
+chroma_data/
+
+utils/
