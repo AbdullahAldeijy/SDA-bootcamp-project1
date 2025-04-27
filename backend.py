@@ -41,8 +41,7 @@ AZURE_STORAGE_CONTAINER = client.get_secret('PROJ-AZURE-STORAGE-CONTAINER').valu
 CHROMADB_HOST = client.get_secret('PROJ-CHROMADB-HOST').value
 CHROMADB_PORT = client.get_secret('PROJ-CHROMADB-PORT').value
 
-CHROMADB_HOST = '10.0.0.5'
-CHROMADB_PORT = '8000'
+
 DB_CONFIG = {
     "dbname": DB_NAME,
     "user": DB_USER,
